@@ -1,9 +1,3 @@
-[submodule "ChatterBot"]
-	path = ChatterBot
-	url = git@github.com:totalgood/ChatterBot.git
-[submodule "errbot"]
-	path = errbot
-	url = git@github.com:totalgood/errbot.git
-[submodule "will"]
-	path = will
-	url = git@github.com:totalgood/will.git
+[submodule "ta"]
+	path = ta
+	url = git@github.com:totalgood/ta.git
