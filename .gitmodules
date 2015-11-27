@@ -7,9 +7,6 @@
 [submodule "will"]
 	path = will
 	url = git@github.com:totalgood/will.git
-[submodule "willchaterr/textadventuredemo"]
-	path = willchaterr/textadventuredemo
-	url = git@github.com:totalgood/textadventuredemo.git
 [submodule "textadventuredemo"]
 	path = textadventuredemo
 	url = git@github.com:totalgood/textadventuredemo.git
